@@ -1,11 +1,13 @@
 package com.example.thailandyearlyincome;
 
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -39,7 +41,7 @@ public class IncomeByProvinceActivity extends AppCompatActivity {
                 TextView textView1 = view.findViewById(android.R.id.text1);
                 TextView textView2 = view.findViewById(android.R.id.text2);
 
-                String incomeText = provinceInfo[position].getIncome() + getString(R.string.baht_per_year);
+                String incomeText = provinceInfo[position].getIncome() + ' ' + getString(R.string.baht_per_year);
                 textView1.setText(provinceInfo[position].getProvince());
                 textView2.setText(incomeText);
 
@@ -50,5 +52,17 @@ public class IncomeByProvinceActivity extends AppCompatActivity {
         // Display list
         ListView listView = findViewById(R.id.listview_province);
         listView.setAdapter(arrayAdapter);
+
+        // Click an item to view its detail
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+                Gson gson = new Gson();
+                String detail = gson.toJson(provinceInfo[i]);
+                Intent intent = new Intent(getApplicationContext(), ProvinceDetailActivity.class);
+                intent.putExtra("province_detail", detail);
+                startActivity(intent);
+            }
+        });
     }
 }

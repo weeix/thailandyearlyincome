@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".IncomeByProvinceActivity" />
+        <activity android:name=".ProvinceDetailActivity" />
     </application>
 
 </manifest>
