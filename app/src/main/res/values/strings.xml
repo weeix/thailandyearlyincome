@@ -3,4 +3,5 @@
     <string name="yearly_income_2558">รายได้เฉลี่ยต่อปี พ.ศ. 2558</string>
     <string name="view_by_province">ดูข้อมูลรายจังหวัด</string>
     <string name="data_credit">จากข้อมูล จปฐ. โดย กรมการพัฒนาชุมชน</string>
+    <string name="baht_per_year">บาท/ปี</string>
 </resources>

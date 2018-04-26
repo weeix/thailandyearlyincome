@@ -1,0 +1,458 @@
+[
+  {
+    "province": "กระบี่",
+    "family": "90,523",
+    "person": "308,687",
+    "income": "78,240"
+  },
+  {
+    "province": "กาญจนบุรี",
+    "family": "156,721",
+    "person": "512,236",
+    "income": "73,322"
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "family": "205,284",
+    "person": "744,792",
+    "income": "70,372"
+  },
+  {
+    "province": "กำแพงเพชร",
+    "family": "151,561",
+    "person": "471,176",
+    "income": "87,684"
+  },
+  {
+    "province": "ขอนแก่น",
+    "family": "338,432",
+    "person": "1,220,708",
+    "income": "69,940"
+  },
+  {
+    "province": "จันทบุรี",
+    "family": "99,639",
+    "person": "305,108",
+    "income": "90,754"
+  },
+  {
+    "province": "ฉะเชิงเทรา",
+    "family": "145,392",
+    "person": "485,159",
+    "income": "81,612"
+  },
+  {
+    "province": "ชลบุรี",
+    "family": "321,403",
+    "person": "653,180",
+    "income": "121,065"
+  },
+  {
+    "province": "ชัยนาท",
+    "family": "88,747",
+    "person": "254,196",
+    "income": "85,627"
+  },
+  {
+    "province": "ชัยภูมิ",
+    "family": "262,012",
+    "person": "866,285",
+    "income": "67,001"
+  },
+  {
+    "province": "ชุมพร",
+    "family": "101,288",
+    "person": "293,495",
+    "income": "85,390"
+  },
+  {
+    "province": "เชียงราย",
+    "family": "297,147",
+    "person": "870,526",
+    "income": "71,257"
+  },
+  {
+    "province": "เชียงใหม่",
+    "family": "379,213",
+    "person": "1,087,164",
+    "income": "74,257"
+  },
+  {
+    "province": "ตรัง",
+    "family": "133,592",
+    "person": "437,565",
+    "income": "67,010"
+  },
+  {
+    "province": "ตราด",
+    "family": "48,010",
+    "person": "139,047",
+    "income": "80,700"
+  },
+  {
+    "province": "ตาก",
+    "family": "119,561",
+    "person": "346,385",
+    "income": "67,223"
+  },
+  {
+    "province": "นครนายก",
+    "family": "56,512",
+    "person": "176,632",
+    "income": "82,014"
+  },
+  {
+    "province": "นครปฐม",
+    "family": "157,210",
+    "person": "535,226",
+    "income": "91,621"
+  },
+  {
+    "province": "นครพนม",
+    "family": "167,167",
+    "person": "541,567",
+    "income": "62,698"
+  },
+  {
+    "province": "นครราชสีมา",
+    "family": "669,011",
+    "person": "1,958,001",
+    "income": "81,204"
+  },
+  {
+    "province": "นครศรีธรรมราช",
+    "family": "318,805",
+    "person": "991,685",
+    "income": "69,534"
+  },
+  {
+    "province": "นครสวรรค์",
+    "family": "254,551",
+    "person": "741,479",
+    "income": "84,871"
+  },
+  {
+    "province": "นนทบุรี",
+    "family": "153,518",
+    "person": "380,479",
+    "income": "135,201"
+  },
+  {
+    "province": "นราธิวาส",
+    "family": "143,181",
+    "person": "536,915",
+    "income": "55,292"
+  },
+  {
+    "province": "น่าน",
+    "family": "110,609",
+    "person": "362,356",
+    "income": "67,170"
+  },
+  {
+    "province": "บึงกาฬ",
+    "family": "90,899",
+    "person": "313,849",
+    "income": "67,906"
+  },
+  {
+    "province": "บุรีรัมย์",
+    "family": "340,495",
+    "person": "1,101,874",
+    "income": "68,446"
+  },
+  {
+    "province": "ปทุมธานี",
+    "family": "221,965",
+    "person": "561,448",
+    "income": "145,077"
+  },
+  {
+    "province": "ประจวบคีรีขันธ์",
+    "family": "107,712",
+    "person": "316,480",
+    "income": "88,079"
+  },
+  {
+    "province": "ปราจีนบุรี",
+    "family": "112,936",
+    "person": "355,767",
+    "income": "83,815"
+  },
+  {
+    "province": "ปัตตานี",
+    "family": "124,856",
+    "person": "476,354",
+    "income": "55,402"
+  },
+  {
+    "province": "พระนครศรีอยุธยา",
+    "family": "177,442",
+    "person": "550,126",
+    "income": "88,663"
+  },
+  {
+    "province": "พะเยา",
+    "family": "117,529",
+    "person": "346,245",
+    "income": "69,131"
+  },
+  {
+    "province": "พังงา",
+    "family": "55,788",
+    "person": "177,010",
+    "income": "77,160"
+  },
+  {
+    "province": "พัทลุง",
+    "family": "131,716",
+    "person": "401,024",
+    "income": "72,262"
+  },
+  {
+    "province": "พิจิตร",
+    "family": "122,998",
+    "person": "367,904",
+    "income": "79,335"
+  },
+  {
+    "province": "พิษณุโลก",
+    "family": "183,911",
+    "person": "558,325",
+    "income": "82,565"
+  },
+  {
+    "province": "เพชรบุรี",
+    "family": "100,475",
+    "person": "328,232",
+    "income": "79,847"
+  },
+  {
+    "province": "เพชรบูรณ์",
+    "family": "239,125",
+    "person": "766,634",
+    "income": "74,680"
+  },
+  {
+    "province": "แพร่",
+    "family": "118,794",
+    "person": "351,450",
+    "income": "72,279"
+  },
+  {
+    "province": "ภูเก็ต",
+    "family": "87,140",
+    "person": "210,741",
+    "income": "134,480"
+  },
+  {
+    "province": "มหาสารคาม",
+    "family": "219,269",
+    "person": "746,001",
+    "income": "75,519"
+  },
+  {
+    "province": "มุกดาหาร",
+    "family": "87,742",
+    "person": "275,016",
+    "income": "78,392"
+  },
+  {
+    "province": "แม่ฮ่องสอน",
+    "family": "56,294",
+    "person": "178,543",
+    "income": "50,996"
+  },
+  {
+    "province": "ยโสธร",
+    "family": "128,173",
+    "person": "416,923",
+    "income": "65,358"
+  },
+  {
+    "province": "ยะลา",
+    "family": "103,107",
+    "person": "345,264",
+    "income": "64,346"
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "family": "290,033",
+    "person": "968,007",
+    "income": "73,020"
+  },
+  {
+    "province": "ระนอง",
+    "family": "46,435",
+    "person": "123,606",
+    "income": "76,149"
+  },
+  {
+    "province": "ระยอง",
+    "family": "155,329",
+    "person": "418,813",
+    "income": "108,152"
+  },
+  {
+    "province": "ราชบุรี",
+    "family": "162,638",
+    "person": "551,418",
+    "income": "78,289"
+  },
+  {
+    "province": "ลพบุรี",
+    "family": "184,246",
+    "person": "538,517",
+    "income": "88,629"
+  },
+  {
+    "province": "ลำปาง",
+    "family": "209,458",
+    "person": "575,398",
+    "income": "77,950"
+  },
+  {
+    "province": "ลำพูน",
+    "family": "114,347",
+    "person": "340,524",
+    "income": "78,120"
+  },
+  {
+    "province": "เลย",
+    "family": "155,650",
+    "person": "505,324",
+    "income": "77,220"
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "family": "272,223",
+    "person": "999,598",
+    "income": "61,015"
+  },
+  {
+    "province": "สกลนคร",
+    "family": "248,503",
+    "person": "801,904",
+    "income": "66,245"
+  },
+  {
+    "province": "สงขลา",
+    "family": "291,578",
+    "person": "916,720",
+    "income": "86,088"
+  },
+  {
+    "province": "สตูล",
+    "family": "69,399",
+    "person": "242,288",
+    "income": "56,282"
+  },
+  {
+    "province": "สมุทรปราการ",
+    "family": "307,386",
+    "person": "609,178",
+    "income": "138,759"
+  },
+  {
+    "province": "สมุทรสงคราม",
+    "family": "44,961",
+    "person": "136,122",
+    "income": "70,129"
+  },
+  {
+    "province": "สมุทรสาคร",
+    "family": "117,039",
+    "person": "345,890",
+    "income": "108,283"
+  },
+  {
+    "province": "สระแก้ว",
+    "family": "117,731",
+    "person": "344,198",
+    "income": "78,972"
+  },
+  {
+    "province": "สระบุรี",
+    "family": "137,763",
+    "person": "445,038",
+    "income": "98,545"
+  },
+  {
+    "province": "สิงห์บุรี",
+    "family": "51,807",
+    "person": "158,580",
+    "income": "85,548"
+  },
+  {
+    "province": "สุโขทัย",
+    "family": "135,263",
+    "person": "417,163",
+    "income": "76,059"
+  },
+  {
+    "province": "สุพรรณบุรี",
+    "family": "214,583",
+    "person": "663,891",
+    "income": "84,127"
+  },
+  {
+    "province": "สุราษฎร์ธานี",
+    "family": "205,257",
+    "person": "633,808",
+    "income": "83,360"
+  },
+  {
+    "province": "สุรินทร์",
+    "family": "265,283",
+    "person": "916,095",
+    "income": "65,752"
+  },
+  {
+    "province": "หนองคาย",
+    "family": "100,933",
+    "person": "334,916",
+    "income": "73,539"
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "family": "102,024",
+    "person": "358,828",
+    "income": "69,584"
+  },
+  {
+    "province": "อ่างทอง",
+    "family": "71,170",
+    "person": "213,095",
+    "income": "80,599"
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "family": "84,774",
+    "person": "269,873",
+    "income": "64,970"
+  },
+  {
+    "province": "อุดรธานี",
+    "family": "330,498",
+    "person": "1,116,953",
+    "income": "83,800"
+  },
+  {
+    "province": "อุตรดิตถ์",
+    "family": "118,271",
+    "person": "322,564",
+    "income": "77,648"
+  },
+  {
+    "province": "อุทัยธานี",
+    "family": "83,713",
+    "person": "240,057",
+    "income": "78,168"
+  },
+  {
+    "province": "อุบลราชธานี",
+    "family": "367,651",
+    "person": "1,307,855",
+    "income": "69,423"
+  }
+]
