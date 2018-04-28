@@ -9,4 +9,6 @@
     <string name="yearly_income">รายได้เฉลี่ยต่อปี</string>
     <string name="person">คน</string>
     <string name="families">ครอบครัว</string>
+    <string name="search">ค้นหา</string>
+    <string name="search_hint">พิมพ์คำค้นหาที่ต้องการ</string>
 </resources>
